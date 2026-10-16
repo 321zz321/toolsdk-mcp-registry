@@ -559,7 +559,9 @@
       "toolradar-mcp",
       "vindex-mcp",
       "yolfi-agent",
-      "@dreamworkhq/mcp"
+      "@dreamworkhq/mcp",
+      "@concord-ai/concord-mcp",
+      "@toolsdk-remote/screenrig"
     ]
   },
   "aggregators": {
@@ -648,7 +650,9 @@
       "@toolsdk-remote/mcpcharts",
       "@toolsdk-remote/upapi",
       "ghcr.io/happy520ai/unified-ai-system/mcp-server",
-      "tuningengines-cli"
+      "tuningengines-cli",
+      "@toolsdk-remote/agentsvc",
+      "@toolsdk-remote/chain-love-mcp"
     ]
   },
   "art-and-culture": {
@@ -787,7 +791,9 @@
       "engine-dj-mcp",
       "ghcr.io/garalex/promoshot-mcp",
       "serato-dj-mcp",
-      "@makeaivideo/mcp"
+      "@makeaivideo/mcp",
+      "@toolsdk-remote/videobgremover-mcp",
+      "biblical-atlas-mcp"
     ]
   },
   "browser-automation": {
@@ -964,7 +970,11 @@
       "agent-qa",
       "@toolsdk-remote/agentrender",
       "agentrender-mcp",
-      "@toolsdk-remote/testmu-ai-mcp"
+      "@toolsdk-remote/testmu-ai-mcp",
+      "@toolsdk-remote/curlshot",
+      "@toolsdk-remote/surface-preflight",
+      "rea-captcha",
+      "vibe-testing"
     ]
   },
   "cloud-platforms": {
@@ -1268,7 +1278,8 @@
       "ghcr.io/sandbaseai/sandbase-harness-mcp",
       "glm-mcp",
       "preflight-dev",
-      "vibekit-mcp"
+      "vibekit-mcp",
+      "@ataraxy-labs/sem"
     ]
   },
   "command-line": {
@@ -1388,7 +1399,8 @@
       "play-sound-mcp-server",
       "mac-shell",
       "pty-terminal",
-      "macos-notification-mcp"
+      "macos-notification-mcp",
+      "remotify-mcp"
     ]
   },
   "communication": {
@@ -1631,7 +1643,10 @@
       "telegram-archive-mcp",
       "vk-mcp-server",
       "@toolsdk-remote/callforme",
-      "@toolsdk-remote/caly"
+      "@toolsdk-remote/caly",
+      "@toolsdk-remote/heyreagent",
+      "@toolsdk-remote/inboxmcp",
+      "@toolsdk-remote/needhave"
     ]
   },
   "customer-data-platforms": {
@@ -1664,7 +1679,8 @@
       "mcp-salesforce-connector",
       "@toolsdk-remote/intakra",
       "@toolsdk-remote/vibe-prospecting",
-      "@kooperativa_team/mcp-server"
+      "@kooperativa_team/mcp-server",
+      "@toolsdk-remote/connectmachine-mcp"
     ]
   },
   "databases": {
@@ -1990,7 +2006,8 @@
       "lumenx-legal-spend-intelligence",
       "@toolsdk-remote/dokyumi",
       "@toolsdk-remote/ocolta",
-      "@toolsdk-remote/cloud-dchub-mcp"
+      "@toolsdk-remote/cloud-dchub-mcp",
+      "@toolsdk-remote/statorigin-mcp"
     ]
   },
   "developer-tools": {
@@ -2390,7 +2407,11 @@
       "@toolsdk-remote/otakit",
       "erius-phone-mcp",
       "orcareplay",
-      "apple-docs-2.0-mcp"
+      "apple-docs-2.0-mcp",
+      "@toolsdk-remote/openhook",
+      "@toolsdk-remote/org-flowchartai-flowchartai",
+      "@toolsdk-remote/sanctionskit-developer",
+      "@zeptap/mcp"
     ]
   },
   "data-science-tools": {
@@ -3010,7 +3031,13 @@
       "@toolsdk-remote/silicon-floor",
       "@unusualwhales/mcp",
       "brianbooms-mcp",
-      "tapetide-mcp"
+      "tapetide-mcp",
+      "@toolsdk-remote/chord",
+      "@toolsdk-remote/moltnode",
+      "@toolsdk-remote/pink-agentic-payments",
+      "@toolsdk-remote/street-journal",
+      "@toolsdk-remote/swapwallet",
+      "@toolsdk-remote/walletfollow"
     ]
   },
   "gaming": {
@@ -3062,7 +3089,9 @@
       "scryfall",
       "texas-hold'em-poker",
       "@toolsdk-remote/shared-forest",
-      "@toolsdk-remote/playgama-developer-cabinet"
+      "@toolsdk-remote/playgama-developer-cabinet",
+      "@toolsdk-remote/drinkedin",
+      "@toolsdk-remote/spritefuse"
     ]
   },
   "knowledge-memory": {
@@ -3287,7 +3316,10 @@
       "@toolsdk-remote/com-abuzzhive-abuzzhive",
       "@toolsdk-remote/continuity",
       "@toolsdk-remote/physea-liminal",
-      "@toolsdk-remote/wondel-skills-mcp"
+      "@toolsdk-remote/wondel-skills-mcp",
+      "@toolsdk-remote/takibi",
+      "@toolsdk-remote/whisper-memos",
+      "twin-me-up"
     ]
   },
   "location-services": {
@@ -3487,7 +3519,17 @@
       "@toolsdk-remote/serpel-mcp",
       "@toolsdk-remote/unsora",
       "@toolsdk-remote/zenmode-mcp",
-      "rapid-indexer-mcp"
+      "rapid-indexer-mcp",
+      "@toolsdk-remote/altorank",
+      "@toolsdk-remote/ember-websites",
+      "@toolsdk-remote/gen",
+      "@toolsdk-remote/linkintel",
+      "@toolsdk-remote/mailcoach",
+      "@toolsdk-remote/mentionsapi",
+      "@toolsdk-remote/multi-upload-tool",
+      "@toolsdk-remote/prolifik",
+      "@toolsdk-remote/semantichub",
+      "@toolsdk-remote/tubetext-ad-intelligence"
     ]
   },
   "monitoring": {
@@ -3561,7 +3603,10 @@
       "@toolsdk-remote/uptimely",
       "duplicacy-mcp",
       "@toolsdk-remote/solidping",
-      "@toolsdk-remote/tarodando"
+      "@toolsdk-remote/tarodando",
+      "@toolsdk-remote/flare",
+      "@toolsdk-remote/ohdear",
+      "@toolsdk-remote/sequential"
     ]
   },
   "search-data-extraction": {
@@ -4008,7 +4053,21 @@
       "@toolsdk-remote/whimbrel-medtech-analyst",
       "proofite-mcp",
       "screenpipe-mcp",
-      "@toolsdk-remote/looot-mcp"
+      "@toolsdk-remote/looot-mcp",
+      "@toolsdk-remote/carejobs-healthcare-jobs",
+      "@toolsdk-remote/companyproof",
+      "@toolsdk-remote/openpath",
+      "@toolsdk-remote/readgzh-mcp",
+      "@toolsdk-remote/scentverdict",
+      "@toolsdk-remote/serpkite-mcp",
+      "@toolsdk-remote/tenmomo",
+      "@toolsdk-remote/tubetext-china-data",
+      "@toolsdk-remote/tubetext-ecommerce-prices",
+      "@toolsdk-remote/tubetext-reviews-insights",
+      "@toolsdk-remote/tubetext-social-video-transcripts",
+      "@toolsdk-remote/tubetext-tiktok-transcripts",
+      "@toolsdk-remote/tubetext-youtube-transcripts",
+      "@toolsdk-remote/uk-tenders"
     ]
   },
   "security": {
@@ -4167,7 +4226,8 @@
       "@affixio/mcp",
       "@fractalai/agent-passport-mcp",
       "@toolsdk-remote/sitelemetry",
-      "csoai-gspc-mcp"
+      "csoai-gspc-mcp",
+      "@toolsdk-remote/tanod-mcp"
     ]
   },
   "sports": {
@@ -4196,7 +4256,8 @@
       "livetennisapi-mcp",
       "parlayapi-mcp",
       "@toolsdk-remote/ball-ranks",
-      "@toolsdk-remote/fitmaxx"
+      "@toolsdk-remote/fitmaxx",
+      "ghcr.io/soma-intelligence/open-health-sync"
     ]
   },
   "support-service-management": {
@@ -4270,7 +4331,8 @@
       "@toolsdk-remote/noveum-orbit",
       "@toolsdk-remote/supovia",
       "simple-support-system-mcp",
-      "@toolsdk-remote/ouroboros-desk"
+      "@toolsdk-remote/ouroboros-desk",
+      "@toolsdk-remote/there-there"
     ]
   },
   "translation-services": {
@@ -4357,7 +4419,8 @@
       "@toolsdk-remote/tablejourney",
       "@toolsdk-remote/your-next-tours",
       "@toolsdk-remote/aisle",
-      "@toolsdk-remote/haulest"
+      "@toolsdk-remote/haulest",
+      "@toolsdk-remote/tubetext-travel-local-prices"
     ]
   },
   "version-control": {
@@ -5295,7 +5358,11 @@
       "@toolsdk-remote/ouroboros-scope",
       "@toolsdk-remote/qty",
       "@toolsdk-remote/yallaexit",
-      "glongus-mcp"
+      "glongus-mcp",
+      "@toolsdk-remote/artigram-mcp",
+      "@toolsdk-remote/cigo-aircare",
+      "@toolsdk-remote/feedbackpulse",
+      "gunsnprices-mcp"
     ]
   }
 }
